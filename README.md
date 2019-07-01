@@ -9,3 +9,4 @@ Press a button to draw lines between points (either blue or black or mixed).  Th
 A message indicates whether the total length is close to the known solution or not.
 
 For one set of data with three points the program starts as:
+![Steiner 3 points A](https://octodex.github.com/images/yaktocat.png)
